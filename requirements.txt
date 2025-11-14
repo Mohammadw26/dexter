@@ -1,0 +1,9 @@
+streamlit
+fastapi
+langgraph
+openai
+pinecone-client
+langsmith
+kubernetes
+pyyaml
+
