@@ -16,4 +16,6 @@ python-dotenv
 uvloop
 requests
 pytest
+black
+isort
 
