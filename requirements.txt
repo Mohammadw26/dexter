@@ -1,9 +1,19 @@
 streamlit
 fastapi
 langgraph
-openai
-pinecone-client
+pinecone
 langsmith
 kubernetes
 pyyaml
+uvicorn
+httpx
+pydantic
+pydantic-settings
+chromadb
+sentence-transformers
+ollama
+python-dotenv
+uvloop
+requests
+pytest
 
